@@ -3508,6 +3508,21 @@
     (path "/687af8b2-504e-4d1d-88fa-30d48e76ddc0"
       (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/563df4ae-dbb4-47b9-a22d-bd8a77d96c98"
+      (reference "#PWR06") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/a57b14ef-ce9a-4774-8e13-f3341d0a711f"
+      (reference "#PWR07") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/34fea42a-943e-4519-a754-f2021417460d"
+      (reference "#PWR08") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/868c2d3c-184a-42eb-8413-f19bbd7949dc"
+      (reference "#PWR09") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/0adcbbac-5515-4af3-ad60-035a781829dd"
+      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
+    )
     (path "/44816beb-c87b-42cf-b3e0-0e65de49b523"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -3624,6 +3639,30 @@
     )
     (path "/561ad5b5-1f0b-46c2-8c8e-c222b229715f/c28cf00c-316b-4f46-9a8c-d59921c06454"
       (reference "CN1") (unit 1) (value "S2B-PH-SM4-TB(LF)(SN)") (footprint "easyeda2kicad:CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/04b491b7-e3d7-436b-9dbd-9e55ec11d68d"
+      (reference "D1") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/3d2b87c7-a62c-4a9b-92ae-d5e772524efd"
+      (reference "D2") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/b357f5d8-d8d1-4d15-835d-8cd03281a6ac"
+      (reference "D3") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/4186409e-a754-42d0-a8a5-2916d8d750e6"
+      (reference "D4") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/78ffec69-dfa5-43ac-823c-387235276f6e"
+      (reference "D5") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/25a24af6-a22f-42c8-a0ee-71efd3f420db"
+      (reference "D6") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/6f3a398f-71c8-4425-9418-b19412bf5493"
+      (reference "D7") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
+    )
+    (path "/16053816-87f9-4442-aa90-5aa52c7c4ff8/c6835939-3d66-4c19-a6f1-da6d927b06c2"
+      (reference "D8") (unit 1) (value "GBLC08C-LF-T7") (footprint "easyeda2kicad:SOD-323_L1.8-W1.3-LS2.5-BI")
     )
     (path "/00ab1753-c2fd-43e8-bac6-e49dc413ed50"
       (reference "J1") (unit 1) (value "te_m.2_b") (footprint "easyeda2kicad:CONN-SMD_AS0BC21-S30BB-7H")
