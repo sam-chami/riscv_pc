@@ -1,4 +1,4 @@
-20959389572216854
+20976173650942336
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87542,12 +87542,33 @@ AUDIO-TH_PJ313D
 7
 3
 easyeda2kicad
+C1206
+
+
+0
+2
+2
+easyeda2kicad
+CAP-SMD_BD6.3-L6.6-W6.6-FD
+
+
+0
+2
+2
+easyeda2kicad
 CONN-SMD_AS0BC21-S30BB-7H
 
 
 0
 71
 69
+easyeda2kicad
+CONN-SMD_P2.00_S2B-PH-SM4-TB-LF-SN
+
+
+0
+4
+4
 easyeda2kicad
 CONN-TH-2P-P2.00_S2B-PH-KL-LF-SN
 
@@ -87570,6 +87591,34 @@ HDMI-SMD_HDMI-001S
 23
 23
 easyeda2kicad
+HDR-TH_30P-P2.54-H-F-R2-C15-W8.5
+
+
+0
+30
+30
+easyeda2kicad
+HDR-TH_30P-P2.54-H-M-R2-C15-S2.54
+
+
+0
+30
+30
+easyeda2kicad
+HDR-TH_40P-P2.54-H-F-R2-C20-W8.5
+
+
+0
+40
+40
+easyeda2kicad
+HDR-TH_40P-P2.54-H-R2-C20-S2.54-W10.0
+
+
+0
+40
+40
+easyeda2kicad
 IND-SMD_L7.8-W7.0
 
 
@@ -87584,12 +87633,26 @@ KEY-SMD_4P-L5.2-W5.2-P3.7-LS6.4-TL
 4
 4
 easyeda2kicad
+SOD-323_L1.8-W1.3-LS2.5-BI
+
+
+0
+2
+2
+easyeda2kicad
 SOP-16_L10.0-W3.9-P1.27-LS6.0-BL
 
 
 0
 16
 16
+easyeda2kicad
+SW-TH_SS11-BBIWJ-R20-R
+
+
+0
+2
+2
 easyeda2kicad
 TYPE-C-SMD_YIYUAN_YTC-TC6-268
 
@@ -87604,6 +87667,13 @@ USB-A-TH_USB-302-T
 0
 6
 6
+easyeda2kicad
+USON-10_L2.5-W1.0-P0.50-BL
+
+
+0
+10
+10
 easyeda2kicad
 VSON-10_L3.0-W3.0-P0.50-TL-EP_TPS62410DRCR
 
